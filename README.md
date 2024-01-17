@@ -1,1 +1,1 @@
-Custom Prettier config.
+Prettier config.

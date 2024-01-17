@@ -1,7 +1,7 @@
 {
   "name": "@eoghanmccarthy/prettier-config",
   "version": "1.0.0",
-  "description": "Prettier config",
+  "description": "Prettier config.",
   "author": "Eoghan McCarthy <eoghanmccarthy@outlook.com>",
   "repository": {
     "type": "git",
